@@ -1,5 +1,5 @@
 # Number-of-primes-not-greater-than-n
-The program counting the number of prime numbers less than some natural number.
+Java program to count the number of prime numbers less than some natural number.
 This is the prime-counting function and here is a few her values:
 for 10: 4,
 for 100: 25,
