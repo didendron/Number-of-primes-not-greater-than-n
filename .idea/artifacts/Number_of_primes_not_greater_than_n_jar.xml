@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Number of primes not greater than n:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Number_of_primes_not_greater_than_n_jar</output-path>
+    <root id="archive" name="Number of primes not greater than n.jar">
+      <element id="module-output" name="Number of primes not greater than n" />
+    </root>
+  </artifact>
+</component>

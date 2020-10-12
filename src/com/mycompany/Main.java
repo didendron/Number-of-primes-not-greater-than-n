@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         long counter=0;
         System.out.println("Enter a natural number:");
         Scanner in=new Scanner(System.in);
@@ -14,6 +14,8 @@ public class Main {
             if(isPrime(i))counter+=1;
         }
         System.out.println("Number of primes not greater than "+number+" is: "+counter);
+
+        Thread.sleep(30000);
 
 
     }
